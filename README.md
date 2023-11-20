@@ -4,6 +4,6 @@
 3. Каждая попытка отнимает у вас 100 очков.
 4. При окончании баланса игрока наступает конец игры.
 
-![3](https://github.com/VRdcvt/-/assets/139410086/c70cd811-2b73-4e8e-acaf-4ac27c107cd5)
 ![2](https://github.com/VRdcvt/-/assets/139410086/dd33fa7f-fb27-4be2-933d-9529d3b45fd0)
 ![1](https://github.com/VRdcvt/-/assets/139410086/4aa8a452-f666-4b2f-9428-75ecab1ec774)
+![3](https://github.com/VRdcvt/-/assets/139410086/c2c05cc9-71be-4e34-8be7-ab28e0de58a7)
