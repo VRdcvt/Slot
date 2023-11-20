@@ -5,5 +5,5 @@
 4. При окончании баланса игрока наступает конец игры.
 
 ![2](https://github.com/VRdcvt/-/assets/139410086/dd33fa7f-fb27-4be2-933d-9529d3b45fd0)
-![1](https://github.com/VRdcvt/-/assets/139410086/4aa8a452-f666-4b2f-9428-75ecab1ec774)
 ![3](https://github.com/VRdcvt/-/assets/139410086/c2c05cc9-71be-4e34-8be7-ab28e0de58a7)
+![1](https://github.com/VRdcvt/-/assets/139410086/ad2a1d7a-ab73-465f-b774-7d22c6a926f0)
